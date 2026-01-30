@@ -76,4 +76,4 @@ Il progetto include funzioni di visualizzazione che colorano i territori in base
 <img width="1957" height="966" alt="risk_board" src="https://github.com/user-attachments/assets/0ad274bf-358a-4c46-bf3e-a8a0c328957c" />
 
 ---
-*Progetto sviluppato per il corso di ICON (Intelligenza Computazionale).*
+*Progetto sviluppato per il corso di ICON (Ingegneria della Conoscenza).*
